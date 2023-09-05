@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <ul class="vanta-top-menu ">
+        <li class="link-back ">
+            <a href="index.html ">Back to main</a>
+        </li>
+    </ul>
+    <div id="vantaConnectDiv">
+        <script src="/assets/js/three.min.js "></script>
+        <script src="/assets/js/vanta.birds.min.js "></script>
+        <script>
+            VANTA.BIRDS({
+                el: "#vantaConnectDiv ",
+                mouseControls: true,
+                touchControls: true,
+                gyroControls: false,
+                minHeight: 600.00,
+                minWidth: 600.00,
+                scale: 1.00,
+                scaleMobile: 1.00,
+                colorMode: "lerpGradient "
+            })
+        </script>
+    </div>
+
+</body>
+
+</html>
