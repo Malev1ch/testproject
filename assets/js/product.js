@@ -277,3 +277,21 @@ const cardsTest = () => {
     })
 }
 cardsTest()
+
+// light and dark theme
+let body = document.querySelector('body')
+let lightBtn = document.querySelector('.light-theme')
+let darkBtn = document.querySelector('.dark-theme')
+
+function lighTheme() {
+    body.className = ''
+}
+
+function darkTheme() {
+    body.classList.add('dark')
+}
+
+lightBtn.addEventListener('click', lighTheme)
+darkBtn.addEventListener('click', darkTheme)
+
+// light and dark theme
