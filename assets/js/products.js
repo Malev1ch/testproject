@@ -1,3 +1,4 @@
+//products data base
 let products = [{
     "id": 1,
     "title": "iPhone 9",
@@ -359,7 +360,7 @@ let products = [{
     "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
     "images": ["https://i.dummyjson.com/data/products/30/1.jpg", "https://i.dummyjson.com/data/products/30/2.jpg", "https://i.dummyjson.com/data/products/30/3.jpg", "https://i.dummyjson.com/data/products/30/thumbnail.jpg"]
 }]
-
+//products data base
 
 let status = 'All'
 
