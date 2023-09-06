@@ -149,14 +149,14 @@ const cardsTest = () => {
         image.setAttribute('src', item.thumbnail)
         card.classList.add('card')
         image.classList.add('image')
-        title.classList.add('card__title')
+        model.classList.add('card__title')
         price.classList.add('card__price')
         description.classList.add('card__description')
         category.classList.add('card__category')
         rating.classList.add('card__rating')
         model.textContent = item.model
         description.textContent = `Описание: ${item.description}`
-        year.textContent = `Год: ${item.category}`
+        year.textContent = `Год: ${item.year}`
         price.textContent = `Цена: ${item.price}$`
 
         card.append(image)
