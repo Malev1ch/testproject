@@ -109,8 +109,7 @@ let cars = [{
     "price": 81200,
     "year": 2023,
     "thumbnail": "https://i.imgur.com/hU8EgPH.png"
-},
-    ]
+}]
 //products data base
 
 let status = 'All'
@@ -152,7 +151,7 @@ const cardsTest = () => {
         model.classList.add('card__title')
         price.classList.add('card__price')
         description.classList.add('card__description')
-        category.classList.add('card__category')
+        year.classList.add('card__category')
         rating.classList.add('card__rating')
         model.textContent = item.model
         description.textContent = `Описание: ${item.description}`
