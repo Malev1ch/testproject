@@ -159,9 +159,9 @@ const cardsTest = () => {
         price.textContent = `Цена: ${item.price}$`
 
         card.append(image)
-        card.append(title)
+        card.append(model)
         card.append(description)
-        card.append(category)
+        card.append(year)
         card.append(price)
         card.append(rating)
         div_cards.append(card)
