@@ -21,90 +21,90 @@ let cars = [{
         "thumbnail": "https://santavod.ru/wp-content/uploads/2021/08/mazda-6-sedan-2012-015-768x512.jpg"
     },
     {
-        "id": 3,
+        "id": 4,
         "model": "Nissan gtr r35",
         "price": 178750,
         "year": 2007,
         "thumbnail": "https://clicccar.com/uploads/2017/04/NISSAN_GT-R_NISMO_2017_01-20170402195648.jpg"
     },
     {
-        "id": 4,
+        "id": 5,
         "model": "nexia ravon r3",
         "price": 13400,
         "year": 2022,
         "thumbnail": "https://hdpic.club/uploads/posts/2021-12/thumbs/1639340871_13-hdpic-club-p-deu-ravon-14.jpg"
     },
     {
-        "id": 5,
+        "id": 6,
         "model": "toyota supra mk4",
         "price": 40200,
         "year": 2013,
         "thumbnail": "https://i.pinimg.com/736x/57/3e/a5/573ea58e52aafe661ab2df048c65eca0--toyota-supra-car-photos.jpg"
     },
     {
-        "id": 6,
+        "id": 7,
         "model": "cadillac escalade",
         "price": 110000,
         "year": 2021,
         "thumbnail": "https://i.ytimg.com/vi/BOGEebtHPnw/maxresdefault.jpg"
     },
     {
-        "id": 7,
+        "id": 8,
         "model": "land rover defender",
         "price": 51074,
         "year": 2022,
         "thumbnail": "https://kardanremont.ru/wp-content/uploads/2021/02/Z9eBJ0IqlVc-768x480.jpg"
     },
     {
-        "id": 8,
+        "id": 9,
         "model": "mercedez benz g63",
         "price": 150000,
         "year": 2021,
         "thumbnail": "https://img.goodfon.ru/original/800x480/c/71/amg-63-2018-mersedes-benz-gelandewagen-top-car.jpg"
     },
     {
-        "id": 9,
+        "id": 10,
         "model": "bmw x6",
         "price": 90000,
         "year": 2023,
         "thumbnail": "https://i.zcarz.ru/2017/05/d8cee0dcb68a5e3531bbf0f954fd7bf0-1024x768.jpg"
     },
     {
-        "id": 10,
+        "id": 11,
         "model": "lada vesta",
         "price": 8000,
         "year": 2023,
         "thumbnail": "https://topruscar.ru/assets/images/kt/kt2016_lada-vesta_001.jpg"
     },
     {
-        "id": 11,
+        "id": 12,
         "model": "bugatti chiron",
         "price": 3000000,
         "year": 2023,
         "thumbnail": "https://i.ytimg.com/vi/Ril4c99fEiI/maxresdefault.jpg"
     },
     {
-        "id": 12,
+        "id": 13,
         "model": "ferarri 488",
         "price": 800000,
         "year": 2023,
         "thumbnail": "https://i.pinimg.com/736x/97/8f/ee/978feeeaecea54c9fc07a5a2b3464432.jpg"
     }, {
-        "id": 13,
+        "id": 14,
         "model": "byd song plus",
         "price": 40000,
         "year": 2023,
         "thumbnail": "https://www.autoo.com.br/fotos/2023/4/960_720/byd1_13042023_73360_960_720.jpg"
     },
     {
-        "id": 14,
+        "id": 15,
         "model": "zeekr x",
         "price": 51200,
         "year": 2022,
         "thumbnail": "https://ampercar.com/wp-content/uploads/2023/04/756805189094772.jpg"
     },
     {
-        "id": 15,
+        "id": 16,
         "model": "audi e tron",
         "price": 81200,
         "year": 2023,
